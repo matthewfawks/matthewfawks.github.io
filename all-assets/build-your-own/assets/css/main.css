@@ -26,12 +26,20 @@ h2 {
 		color: #331c00;
 }
 
+h1.slim {
+	margin: 0 0 0em 0;
+}
+
 #share-buttons-simpleshare img {
 width: 35px;
 padding: 5px;
 border: 0;
 box-shadow: 0 0 0 1px #a85d00;
 display: inline;
+}
+
+#sharethis-inline-share-buttons.slim{
+	padding: 0em 0em 0em 0em;
 }
 
 .iframe-container {
