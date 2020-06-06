@@ -100,7 +100,7 @@
 
 										<h3>Step 4.1 - Set Up Editing Environment</h3>
 
-											<p>Before you download the site template, you are going to need some way to edit the code. For front-end web languages like HTML, CSS, and JS, all you need is a simple text editor. My personal favorite is <a target="_blank" href="https://atom.io/">Atom</a>, but there are several potential alternative. Check out the "Text Editors" section on my <a target="_blank" href="build-your-own-website-extra-content"> Alternatives & Extra Content</a> page for some of these alternatives and more information.</p>
+											<p>Before you download the site template, you are going to need some way to edit the code. For front-end web languages like HTML, CSS, and JS, all you need is a simple text editor. My personal favorite is <a target="_blank" href="https://atom.io/">Atom</a>, but there are several potential alternative. Check out the "Text Editor Alternatives" section on my <a target="_blank" href="build-your-own-website-extra-content"> Alternatives & Extra Content</a> page for some of these alternatives and more information.</p>
 
 											<p>Go to <a target="_blank" href="https://atom.io/">Atom.io</a> and download the appropriate version for your OS.</p>
 
@@ -146,23 +146,19 @@
 
 										<h3>Step 4.3 - Edit the Template</h3>
 
-											<p>After downloading the .zip file, extract it and move the extracted contents to your GitHub repository folder wherever you decided to clone your repository to on your PC. Make sure that you put the contents themselves and not just the folder into the repository as the "index.html" file must be in the root directory (ex. <i>YOURUSERNAME</i>.github.io/index.html). This file cannot be renamed from "index.html" or removed from the root directory or your website will not function. This is because this file is the default server path that is called when your site is accessed. See <a target="_blank" href="https://www.lifewire.com/index-html-page-3466505">this article</a> for more explanation this.</p>
+											<p>After downloading the .zip file, extract it and move the extracted contents to your GitHub repository folder wherever you decided to clone your repository to on your PC. Make sure that you put the contents themselves and not just the folder into the repository as the "index.html" file must be in the root directory (ex. <i>YOURUSERNAME</i>.github.io/index.html). This file cannot be renamed from "index.html" or removed from the root directory or your website will not function. This is because this file is the default server path that is called when your site is accessed. See <a target="_blank" href="https://www.lifewire.com/index-html-page-3466505">this article</a> for further explanation on this.</p>
 
 											<p>The contents you moved over should now appear in the left-hand bar of Atom. If they don't, you could just manually go to the "index.html" file, right click it, and open it in Atom. We are pretty much just going to be workin in the "index.html" file for this simple webpage.</p>
 
-											easy way to edit is open in browser, remember that all changes made will NOT show up in your actual site unti lyou push thrw
-
-											<p>[FILL IN THIS AREA BETTER]</a>
-
 											<span class="image fit tutorial">
-												<img class="" src="all-assets/build-your-own/tutorial-images/atom07.png" alt="" />
+												<img class="" src="all-assets/build-your-own/tutorial-images/atom08.png" alt="" />
 											</span>
+
+											<p>Alternatively, you could open GitHub Desktop and click "Open in Atom" (if you haven't selected your default editor in GitHub Desktop yet, it gives you a direct link to quickly do so). Additonally, you could open the physical location of the repository from here, which you will need to do if you haven't already in order to make some of the edits below.</p>
 
 											<span class="image fit tutorial">
 												<img class="" src="all-assets/build-your-own/tutorial-images/githubdesktop17.png" alt="" />
 											</span>
-
-
 
 											<p>As a general overview, the file will be started with the "< !DOCTYPE HTML >" tag, and then the entire document should be enclosed in the "< html >" tags. From here, there are two sections: the "< head >" and the "< body >". The head will contain things like the name on the page tab, style sheet references, analytics tags, and other various background items. The body is where all of your website content will be placed and is what your browser will display to visitors. </p>
 
@@ -184,7 +180,7 @@
 
 											<p>Notice how the folders work for the "href" and the "src". In the actual folder on your computer (or server), the main.css file should be found in a folder called "css" in the "assets" folder that would be in the root directory. Say, though, that you were in a subfolder called "images" but wanted to reference the same css file, then you would need to add two dots to the beginning to move up a level like this "../assets/css/main.css". The file path of your files or images will be important to know as we edit the code reference said files or images.</p>
 
-											<p>Let's move from the top of the file down. I have inserted comments in various places either giving a short description of what the element is or indicating where to add your own information.</p>
+											<p>Let's move from the top of the file down. I have inserted comments in various places either giving a short description of what the element is or indicating where to add your own information. Notes that all changes made here will NOT show up in your actual site until the changes are pushed through using GitHub Desktop (explained at the end of this step). An easy way to see your local changes as you go would be to open the index.html file directly into your browser. Your browser will treat it exactly as it will when it's officially uploaded, and you can just refresh the page after saving your file in order to immediately see your changes.</p>
 
 											<p>The first element is updating the favicon image. This the image that shows up next to the tab name on the tab in your browser. In the template, you will notice that it refers to a file at the location "images/favicon.png". This basically means that if you go to the "images" folder, you should expect to find an image titled "favicon.png". To replace the favicon with your own, simply either replace the favicon in there with a file with the same name or just change the reference to be to your file that you add to the folder. To quickly create a favicon, check out <a target="_blank" href="https://favicon.io/">favicon.io</a>.</p>
 
@@ -210,7 +206,7 @@
 												<img class="" src="all-assets/build-your-own/tutorial-images/indexhtml04.png" alt="" />
 											</span>
 
-											<p>Now we will move into the body section of the file where the primary content for your site goes. Go ahead and fill in your name on line 45 in place of "[FILL IN NAME]" and your current position or whatever other phrase or text you would like on line 48 in place of "[FILL IN CURRENT POSITION/TITLE]".</p>
+											<p>Now we will move into the body section of the file where the primary content for your site goes. Go ahead and fill in your name on line 45 in place of "[FILL IN NAME]" and your current position or whatever other phrase or text you would like on line 48 in place of "[FILL IN CURRENT POSITION/TITLE]". To change the avatar image, follow the same strategy as the favicon by either replacing the file with an exactly named file or changing the "src" link to point to the file you add to the folder. Note that the size of your image matters here, so try to the image dimensions of the existing avatar image (about 1500x1500). You may need a very basic photo editor (like <a target="_blank" href="https://www.imore.com/best-photo-editing-apps-mac">these for Mac</a>) in order to do this with the image you want to use.</p>
 
 											<span class="image fit tutorial">
 												<img class="" src="all-assets/build-your-own/tutorial-images/indexhtml05.png" alt="" />
@@ -222,7 +218,7 @@
 												<img class="" src="all-assets/build-your-own/tutorial-images/indexhtml06.png" alt="" />
 											</span>
 
-											<p>This next part refers to the link buttons shown under the resume button. I already have 3 different ones provded, but feel free to use any of the others provided by simply removing the "&lt;!--" and "--&gt;" (which are how you add comments to html code) at the beginning and end of the element. To add your link, just replace the "#" with the link you want it to take you to. If the symbol you want isnt displayed, the symbols in the template are from Font Awesome (this uses the Free Version 5.9.0) and you can search for other available icons on <a target="_blank" href="https://fontawesome.com/icons">fontawesome.com</a>.</p>
+											<p>This next part refers to the link buttons shown under the resume button. I already have 3 different ones provded, but feel free to use any of the others provided by simply removing the "&lt;!--" and "--&gt;" (which are how you add comments to html code) at the beginning and end of the element. To add your link, just replace the "#" with the link you want it to take you to (note that for adding your email you will need to add "mailto:" to the front of your email like "mailto:me@matthewfawks.com"). If the symbol you want isnt displayed, the symbols in the template are from Font Awesome (this uses the Free Version 5.9.0) and you can search for other available icons on <a target="_blank" href="https://fontawesome.com/icons">fontawesome.com</a>.</p>
 
 											<span class="image fit tutorial">
 												<img class="" src="all-assets/build-your-own/tutorial-images/indexhtml07.png" alt="" />
@@ -262,14 +258,15 @@
 												<img class="" src="all-assets/build-your-own/tutorial-images/githubdesktop20.png" alt="" />
 											</span>
 
+											<p>You will now want to click "Push Origin" either in the top bar or in the light blue box that appears.</p>
 
+											<span class="image fit tutorial">
+												<img class="" src="all-assets/build-your-own/tutorial-images/githubdesktop21.png" alt="" />
+											</span>
 
-												step instructions -
-												show how to use GitHub Desktop to upload Changes
-												show example finished version
-												feel free to get in touch with me if you are unable to make something work.</p>
+											<p>It will push the changes and they will now appear in your online repository, which means... wait for it...you have officially published your site! It may take a few minutes for the changes to take effect and, barring how recently you configured the domain, typing your domain into the URL bar of your browser should pull up your website.</p>
 
-										<p>stage conclusion</p>
+											<p>You are now ready to wrap it up with <a href="build-your-own-website-step-5"><span class="icon fa-"> Step 5 & Beyond</span></a>!</p>
 
 								</section>
 
