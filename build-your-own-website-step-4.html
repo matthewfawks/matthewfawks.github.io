@@ -150,6 +150,8 @@
 
 											<p>The contents you moved over should now appear in the left-hand bar of Atom. If they don't, you could just manually go to the "index.html" file, right click it, and open it in Atom. We are pretty much just going to be workin in the "index.html" file for this simple webpage.</p>
 
+											easy way to edit is open in browser, remember that all changes made will NOT show up in your actual site unti lyou push thrw
+
 											<p>[FILL IN THIS AREA BETTER]</a>
 
 											<span class="image fit tutorial">
@@ -184,39 +186,55 @@
 
 											<p>Let's move from the top of the file down. I have inserted comments in various places either giving a short description of what the element is or indicating where to add your own information.</p>
 
-											<p>
+											<p>The first element is updating the favicon image. This the image that shows up next to the tab name on the tab in your browser. In the template, you will notice that it refers to a file at the location "images/favicon.png". This basically means that if you go to the "images" folder, you should expect to find an image titled "favicon.png". To replace the favicon with your own, simply either replace the favicon in there with a file with the same name or just change the reference to be to your file that you add to the folder. To quickly create a favicon, check out <a target="_blank" href="https://favicon.io/">favicon.io</a>.</p>
 
 											<span class="image fit tutorial">
 												<img class="" src="all-assets/build-your-own/tutorial-images/indexhtml01.png" alt="" />
 											</span>
 
+											<p>Next, we see the beginning of the document as indicated by the html tag. Replace the "[TAB NAME]" text with what you want to appear on the tab of your webpage.</p>
+
 											<span class="image fit tutorial">
 												<img class="" src="all-assets/build-your-own/tutorial-images/indexhtml02.png" alt="" />
 											</span>
+
+											<p>You don't need to edit anything in the following image, but note that these are necessary for setting up the document and linking to the CSS file that formats this webpage.</p>
 
 											<span class="image fit tutorial">
 												<img class="" src="all-assets/build-your-own/tutorial-images/indexhtml03.png" alt="" />
 											</span>
 
+											<p>Here I have put a spot where you would add a <a target="_blank" href="https://analytics.google.com/analytics/web/">Google Analytics</a> tag if you wanted to track traffic to your webpage. See the following <a target="_blank" href="https://support.google.com/sites/answer/97459?hl=en">Google support page</a> for assitance in getting this set up.</p>
+
 											<span class="image fit tutorial">
 												<img class="" src="all-assets/build-your-own/tutorial-images/indexhtml04.png" alt="" />
 											</span>
+
+											<p>Now we will move into the body section of the file where the primary content for your site goes. Go ahead and fill in your name on line 45 in place of "[FILL IN NAME]" and your current position or whatever other phrase or text you would like on line 48 in place of "[FILL IN CURRENT POSITION/TITLE]".</p>
 
 											<span class="image fit tutorial">
 												<img class="" src="all-assets/build-your-own/tutorial-images/indexhtml05.png" alt="" />
 											</span>
 
+											<p>For the next part, you could technically link to whatever document you want and would just need to change the "Resume" text to what you want it to say. Nevertheless, to add your resume you just need to copy your resume into your root folder and then replaece the "#" with the exact name of your resume file (ex. "resume.pdf").</p>
+
 											<span class="image fit tutorial">
 												<img class="" src="all-assets/build-your-own/tutorial-images/indexhtml06.png" alt="" />
 											</span>
+
+											<p>This next part refers to the link buttons shown under the resume button. I already have 3 different ones provded, but feel free to use any of the others provided by simply removing the "&lt;!--" and "--&gt;" (which are how you add comments to html code) at the beginning and end of the element. To add your link, just replace the "#" with the link you want it to take you to. If the symbol you want isnt displayed, the symbols in the template are from Font Awesome (this uses the Free Version 5.9.0) and you can search for other available icons on <a target="_blank" href="https://fontawesome.com/icons">fontawesome.com</a>.</p>
 
 											<span class="image fit tutorial">
 												<img class="" src="all-assets/build-your-own/tutorial-images/indexhtml07.png" alt="" />
 											</span>
 
+											<p>The final part of this html file is footer, which includes the copyright and attributions necessary for the page. Simple replace "[YOUR NAME]" with your name.</p>
+
 											<span class="image fit tutorial">
 												<img class="" src="all-assets/build-your-own/tutorial-images/indexhtml08.png" alt="" />
 											</span>
+
+											<p>To change the background image (although you could just replace the image in the file with one of the identical name) or background gradiant overlay, you will need to go into the main.css file found at assets/css/main.css. The below are found at lines 115 and lines 129, and you would need to change the rgb values in all the spots of these parts where they appear. Note that the "rgba" attribute takes the normal 3 rgb values as the first three inputs and the last input is the opacity value (1 being fully opaque and 0 being fully transparent). To easily choose colors and get their RGB values, simply Google "color picker". The background image is found in the "url" attribute.</p>
 
 											<span class="image fit tutorial">
 												<img class="" src="all-assets/build-your-own/tutorial-images/maincss01.png" alt="" />
@@ -226,9 +244,14 @@
 												<img class="" src="all-assets/build-your-own/tutorial-images/maincss02.png" alt="" />
 											</span>
 
+											<p>Good job, you have officially made the template customized to you! Make sure you save all of your changes and move onto the publishing stage.
+
 										<h3>Step 4.4 - Upload Changes & Confirm Website Works</h3>
 
-											<p>step instructions -
+											<p>At this point, you have made all of the changes necessary to the template and are ready to upload everything from your PC to your GitHub Pages repostitory! As previously mentioned, none of the changes you have made to the cloned repository on your desktop will show up on your online repository until you both commit <strong>AND</strong> push them to origin.</p>
+
+											<p>This process is fairly simple as the GitHub Desktop client automatically keeps track of all the changes made your repository on your PC.
+												step instructions -
 												show how to use GitHub Desktop to upload Changes
 												show example finished version
 												feel free to get in touch with me if you are unable to make something work.</p>
