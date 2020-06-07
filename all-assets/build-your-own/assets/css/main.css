@@ -17,7 +17,7 @@ Icon border/table/etc. color: #c9c9c9 -> #262626*/
 
 #footer {
 	margin-left: 15%;
-	max-width: 100em;
+	/* max-width: 70em; */
 	padding: 8em 4em 4em 4em;
 	width: calc(100% - 15%);
 }
