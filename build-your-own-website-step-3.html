@@ -92,13 +92,13 @@
 
 									<br />
 
-										<p>As previously mentioned, domain names are more or less simply prettier looking ways of navigating the internet than just using IP addresses to access sites. This understood, we will need to somehow point the domain name you just purchased back to the GitHub Pages repository that will be your site that we put together in the next step. This can be done in a couple ways and would typically involve the IP address of your host's servers, but GitHub Pages makes it super simple and allows you to just resolve your new domain with your current repository URL ("<i>YOURUSERNAME</i>.github.io").</p>
+										<p>As previously mentioned, domain names are more or less simply prettier looking ways of navigating the internet than just using IP addresses to access sites. This understood, we will need to somehow point the domain name you just purchased back to the GitHub Pages repository that will be your site that we put together in the next step. This can be done in a couple ways and would typically involve the IP address of your host's servers, but GitHub Pages makes it super simple and allows you to just resolve your new domain with your current repository URL (ie. "<i>YOURUSERNAME</i>.github.io").</p>
 
 										<p>For more reading on the various ways of configuring a domain with in GitHub Pages, go to their <a target="_blank" href="https://help.github.com/en/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site">help page entry</a> on this matter.</p>
 
 										<h3>Step 3.1 - Configure DNS in Namecheap</h3>
 
-											<p>First, we will configure the domain in your Namecheap profile. Header over to your "Dashboard" or "Domain List" and click the "Manage" button next to your domain. You should be brought to a page that looks like this.</p>
+											<p>First, we will configure the domain in your Namecheap profile. Header over to your "Dashboard" or "Domain List" and click the "Manage" button next to your domain (you could also click "Manage" on the final checkout screen after your purchase went through). You should be brought to a page that looks like this.</p>
 
 											<span class="image fit tutorial">
 												<img class="" src="all-assets/build-your-own/tutorial-images/namecheap20.png" alt="" />
@@ -114,7 +114,7 @@
 												<img class="" src="all-assets/build-your-own/tutorial-images/namecheap28.png" alt="" />
 											</span> -->
 
-											<p>Under the "Host Records" section, click on the CNAME Record line and replace the parking page URL with your GitHub repository URL (remember that this is the same as the repository name). Click the green check mark to save this setting. </p>
+											<p>Under the "Host Records" section, click on the CNAME Record line and replace the parking page URL with your GitHub repository URL (remember that this is the same as the repository name - "<i>YOURUSERNAME</i>.github.io"). Click the green check mark to save this setting. </p>
 
 											<span class="image fit tutorial">
 												<img class="" src="all-assets/build-your-own/tutorial-images/namecheap29.png" alt="" />
@@ -136,13 +136,13 @@
 
 										<h3>Step 3.2 - Set Up GitHub Pages</h3>
 
-											<p>Now that your domain is set up in Namecheap (we are now done using Namecheap), go back to your GitHub Pages repository and click on "Settings". It will default to the "Options" section. Scroll down to "GitHub Pages", which will look like this but with your repository name instead of mine.</p>
-
-											<p>Notice how is shows the current URL of your site (currently your repository name) and allows you to enter a custom domain. You can ignore the "Theme Chooser" unless you plan on using <a target="_blank" href="https://jekyllrb.com/">Jekyll</a> to create your site. Enter the domain name you just purchased exactly as it is spelled into the spot. Using the above domain I purchased, I would put in "testdomain.shop". Note that it doesn't need to match your username, "matthewfawks.com" is just what I preferred my domain to be.</p>
+											<p>Now that your domain is set up in Namecheap (we are now done using Namecheap), go back to your GitHub Pages repository and click on "Settings". It will default to the "Options" section. Scroll down to "GitHub Pages", which will look like the image below but with your repository name instead of mine.</p>
 
 											<span class="image fit tutorial">
 												<img class="" src="all-assets/build-your-own/tutorial-images/github19.png" alt="" />
 											</span>
+
+											<p>Notice how is shows the current URL of your site (currently your repository name) and allows you to enter a custom domain. You can ignore the "Theme Chooser" unless you plan on using <a target="_blank" href="https://jekyllrb.com/">Jekyll</a> to create your site. Enter the domain name you just purchased exactly as it is spelled into the "Custom domain" spot. Using the above domain I purchased, I would put in "testdomain.shop", but here I am using my other domain "matthewfawks.com" instead. Note that it doesn't need to match your username, "matthewfawks.com" is just what I preferred my domain to be.</p>
 
 											<p>After it saves, make sure "Enforce HTTPS" is selected. It should say that your site is "ready to be published" at the top with your custom domain now.</p>
 
@@ -162,7 +162,7 @@
 												<img class="" src="all-assets/build-your-own/tutorial-images/github22.png" alt="" />
 											</span>
 
-											<p>Add a title and description to the commit, make sure it commits directly to the master branch, and click "Commit new file".</p>
+											<p>Add a title and description to the commit (what you put is completely up to you), make sure it commits directly to the master branch, and click "Commit new file".</p>
 
 											<span class="image fit tutorial">
 												<img class="" src="all-assets/build-your-own/tutorial-images/github23.png" alt="" />
