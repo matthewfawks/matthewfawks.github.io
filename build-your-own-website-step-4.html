@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 
 <!--FEATURES TO ADD:
-	-
+	- add code image alongside object screenshot
 	-
 	-
 -->
@@ -144,7 +144,7 @@
 
 											<p>HTML5 UP has many various fully responsive and completely built templates that are distributed under a <a target="_blank" href="http://creativecommons.org/licenses/by/3.0/CC">Creative Commons Attribution 3.0 License</a>, so be sure and be conscious of attributing the work to HTML5 UP if you choose to use one of their templates (such as the one I am providing). Alternatively, you could pay just $19 one-time for <strong>forever</strong> attribution-free use of over 95 different templates with <a target="_blank" href="https://pixelarity.com/?ref=6672547917">Pixelarity</a>.</p>
 
-										<h3>Step 4.3 - Edit the Template</h3>
+										<h3>Step 4.3 - Open the Template</h3>
 
 											<p>After downloading the .zip file, extract it and move the extracted contents to your GitHub repository folder wherever you decided to clone your repository to on your PC. Make sure that you put the contents themselves and not just the folder into the repository as the "index.html" file must be in the root directory (example file path: <i>YOURUSERNAME</i>.github.io/index.html). This file cannot be renamed from "index.html" or removed from the root directory or your website will not function. This is because this file is the default server path that is called when your site is accessed. See <a target="_blank" href="https://www.lifewire.com/index-html-page-3466505">this article</a> for further explanation on this.</p>
 
@@ -154,7 +154,7 @@
 												<img class="" src="all-assets/build-your-own/tutorial-images/atom08.png" alt="" />
 											</span>
 
-											<p>Alternatively, you could open GitHub Desktop and click "Open in Atom" (if you haven't selected your default editor in GitHub Desktop yet, it gives you a direct link to quickly do so). Additonally, you could open the physical location of the repository from here("Show in Finder" on Mac and "Show in Explore" on Windows), which you will need to do if you haven't already in order to make some of the edits below.</p>
+											<p>Alternatively, you could open GitHub Desktop and click "Open in Atom" (if you haven't selected your default editor in GitHub Desktop yet, it gives you a direct link to quickly do so). Additionally, you could open the physical location of the repository from here("Show in Finder" on Mac and "Show in Explore" on Windows), which you will need to do if you haven't already in order to make some of the edits below.</p>
 
 											<span class="image fit tutorial">
 												<img class="" src="all-assets/build-your-own/tutorial-images/githubdesktop17.png" alt="" />
@@ -180,18 +180,30 @@
 
 											<p>Notice how the folders work for the "href" and the "src". In the actual folder on your computer (or server), the main.css file should be found in a folder called "css" in the "assets" folder that would be in the root directory. Say, though, that you were in a subfolder called "images" but wanted to reference the same css file, then you would just need to add two dots to the beginning like this "../assets/css/main.css" to move up a level. The file path of your files or images will be important to know as we edit the code references to said files or images.</p>
 
-											<p>Let's move from the top of the file down. I have inserted comments in various places either giving a short description of what the element is or indicating where to add your own information. Notes that all changes made here will NOT show up in your actual site until the changes are pushed through using GitHub Desktop (explained at the end of this step). An easy way to see your local changes as you go would be to open the index.html file directly into your browser. Your browser will treat it exactly as it will when it's officially uploaded, and you can just refresh the page after saving your file in order to immediately see your changes.</p>
+										<h3>Step 4.4 - Edit the Template</h3>
 
-											<p>The first element is updating the favicon image. This the image that shows up next to the tab name on the tab in your browser. In the template, you will notice that it refers to a file at the location "images/favicon.png". This basically means that if you go to the "images" folder, you should expect to find an image titled "favicon.png". To replace the favicon with your own, simply either replace the favicon in there with a file with the same name or just change the reference to be to your file that you add to the folder. To quickly create a favicon, check out <a target="_blank" href="https://favicon.io/">favicon.io</a>.</p>
+											<p>Looking at our "index.html" now, let's move from the top of the file down. I have inserted comments in various places that either give a short description of what the element is or indicate where to add your own information. Notes that all changes made here will NOT show up in your actual site until the changes are pushed through using GitHub Desktop (explained at the end of this step). An easy way to see your local changes as you go would be to open the "index.html" file directly into your browser. Your browser will treat it exactly as it will when it's officially uploaded, and you can just refresh the page after saving your file in order to immediately see your changes.</p>
 
+											<p>The first element to update is the favicon image, whose code is on line 10. This the image that shows up next to the tab name on the tab in your browser. In the template, you will notice that it refers to a file at the location "images/favicon.png". This basically means that if you go to the "images" folder, you should expect to find an image titled "favicon.png". To replace the favicon with your own, simply either replace the favicon in there with a file with the same name or just change the reference to be to your file that you add to the folder. To quickly create a favicon, check out <a target="_blank" href="https://favicon.io/">favicon.io</a>.</p>
+
+											<div>
 											<span class="image fit tutorial">
 												<img class="" src="all-assets/build-your-own/tutorial-images/indexhtml01.png" alt="" />
 											</span>
+
+											<span class="image fit tutorial">
+												<img style="width: 40%;height: 40%;" class="" src="all-assets/build-your-own/tutorial-images/template01.png" alt="" />
+											</span>
+											</div>
 
 											<p>Next, we see the beginning of the document as indicated by the html tag. Replace the "[TAB NAME]" text with what you want to appear on the tab of your webpage.</p>
 
 											<span class="image fit tutorial">
 												<img class="" src="all-assets/build-your-own/tutorial-images/indexhtml02.png" alt="" />
+											</span>
+
+											<span class="image fit tutorial">
+												<img style="width: 40%;height: 40%;" class="" src="all-assets/build-your-own/tutorial-images/template02.png" alt="" />
 											</span>
 
 											<p>You don't need to edit anything in the following image, but note that these are necessary for setting up the document and linking to the CSS file that formats this webpage.</p>
@@ -206,22 +218,34 @@
 												<img class="" src="all-assets/build-your-own/tutorial-images/indexhtml04.png" alt="" />
 											</span>
 
-											<p>Now we will move into the body section of the file where the primary content for your site goes. Go ahead and fill in your name on line 45 in place of "[FILL IN NAME]" and your current position or whatever other phrase or text you would like on line 48 in place of "[FILL IN CURRENT POSITION/TITLE]". To change the avatar image, follow the same strategy as the favicon by either replacing the file with an exactly named file or changing the "src" link to point to the file you add to the folder. Note that the size of your image matters here, so try to the image dimensions of the existing avatar image (about 1500x1500). You may need a very basic photo editor (like <a target="_blank" href="https://www.imore.com/best-photo-editing-apps-mac">these for Mac</a>) in order to do this with the image you want to use.</p>
+											<p>Now we will move into the body section of the file where the primary content for your site goes. Go ahead and fill in your name on line 45 in place of "[FILL IN NAME]" and your current position or whatever other phrase or text you would like on line 48 in place of "[FILL IN CURRENT POSITION/TITLE]". To change the avatar image, follow the same strategy as the favicon by either replacing the file with an exactly named file or changing the "src" link to point to the image you add to the folder. Note that the size of your image matters here, so try to match the image dimensions of the existing avatar image (about 1500x1500). You may need a very basic photo editor (like <a target="_blank" href="https://www.imore.com/best-photo-editing-apps-mac">these for Mac</a>) in order to do this with the image you want to use.</p>
 
 											<span class="image fit tutorial">
 												<img class="" src="all-assets/build-your-own/tutorial-images/indexhtml05.png" alt="" />
 											</span>
 
-											<p>For the next part, you could technically link to whatever document you want and would just need to change the "Resume" text to what you want it to say. Nevertheless, to add your resume you just need to copy your resume into your root folder and then replaece the "#" with the exact name of your resume file (ex. "resume.pdf").</p>
+											<span class="image fit tutorial">
+												<img style="width: 40%;height: 40%;" class="" src="all-assets/build-your-own/tutorial-images/template03.png" alt="" />
+											</span>
+
+											<p>For the next part, you could technically link to whatever document you want and would just need to change the "Resume" text to what you want it to say. Nevertheless, to add your resume you just need to copy your resume into your root folder and then replace the "#" with the exact name of your resume file (ex. "resume.pdf").</p>
 
 											<span class="image fit tutorial">
 												<img class="" src="all-assets/build-your-own/tutorial-images/indexhtml06.png" alt="" />
 											</span>
 
-											<p>This next part refers to the link buttons shown under the resume button. I already have 3 different ones provded, but feel free to use any of the others provided by simply removing the "&lt;!--" and "--&gt;" (which are how you add comments to html code) at the beginning and end of the element. To add your link, just replace the "#" with the link you want it to take you to (note that for adding your email you will need to add "mailto:" to the front of your email like "mailto:me@matthewfawks.com"). If the symbol you want isnt displayed, the symbols in the template are from Font Awesome (this uses the Free Version 5.9.0) and you can search for other available icons on <a target="_blank" href="https://fontawesome.com/icons">fontawesome.com</a>.</p>
+											<span class="image fit tutorial">
+												<img style="width: 40%;height: 40%;" class="" src="all-assets/build-your-own/tutorial-images/template04.png" alt="" />
+											</span>
+
+											<p>This next part refers to the link buttons shown under the resume button. I already have 3 different ones provided, but feel free to use any of the others provided by simply removing the "&lt;!--" and "--&gt;" (which are how you add comments to html code) at the beginning and end of the element. To add your link, just replace the "#" with the link you want it to take you to (note that for adding your email you will need to add "mailto:" to the front of your email like "mailto:me@matthewfawks.com"). If the symbol you want isn't displayed, the symbols in the template are from Font Awesome (this uses the Free Version 5.9.0) and you can search for other available icons on <a target="_blank" href="https://fontawesome.com/icons">fontawesome.com</a>.</p>
 
 											<span class="image fit tutorial">
 												<img class="" src="all-assets/build-your-own/tutorial-images/indexhtml07.png" alt="" />
+											</span>
+
+											<span class="image fit tutorial">
+												<img style="width: 40%;height: 40%;" class="" src="all-assets/build-your-own/tutorial-images/template05.png" alt="" />
 											</span>
 
 											<p>The final part of this html file is footer, which includes the copyright and attributions necessary for the page. Simple replace "[YOUR NAME]" with your name.</p>
@@ -230,7 +254,11 @@
 												<img class="" src="all-assets/build-your-own/tutorial-images/indexhtml08.png" alt="" />
 											</span>
 
-											<p>To change the background image (although you could just replace the image in the file with one of the identical name) or background gradiant overlay, you will need to go into the main.css file found at assets/css/main.css. The below are found at lines 115 and lines 129, and you would need to change the rgb values in all the spots of these parts where they appear. Note that the "rgba" attribute takes the normal 3 rgb values as the first three inputs and the last input is the opacity value (1 being fully opaque and 0 being fully transparent). To easily choose colors and get their RGB values, simply Google "color picker". The background image is found in the "url" attribute.</p>
+											<span class="image fit tutorial">
+												<img style="width: 40%;height: 40%;" class="" src="all-assets/build-your-own/tutorial-images/template06.png" alt="" />
+											</span>
+
+											<p>To change the background image (although you could just replace the image in the file with one of the identical name) or background gradient overlay, you will need to go into the "main.css" file found at "assets/css/main.css". The below are found at lines 115 and lines 129, and you would need to change the RGB values in all the spots of these parts where they appear. Note that the "rgba" attribute takes the normal 3 RGB values as the first three inputs and the last input is the opacity value which is on a scale of 0 to 1 with 0 being fully transparent and 1 being fully opaque. To easily choose colors and get their RGB values, simply Google "color picker" and look at the "RGB" values on the lower left portion after choosing a color. The background image link is found in the "url" attribute, which you can change by either replacing the image at that location or changing the linked to image by editing the URL.</p>
 
 											<span class="image fit tutorial">
 												<img class="" src="all-assets/build-your-own/tutorial-images/maincss01.png" alt="" />
@@ -242,20 +270,20 @@
 
 											<p>Good job, you have officially made the template customized to you! Make sure you save all of your changes and move onto the publishing stage.
 
-										<h3>Step 4.4 - Upload Changes & Confirm Website Works</h3>
+										<h3>Step 4.5 - Upload Changes & Confirm Website Works</h3>
 
-											<p>At this point, you have made all of the changes necessary to the template and are ready to upload everything from your PC to your GitHub Pages repostitory! As previously mentioned, none of the changes you have made to the cloned repository on your desktop will show up on your online repository until you both commit <strong>AND</strong> push them to origin.</p>
+											<p>At this point, you have made all of the changes necessary to the template and are ready to upload everything from your PC to your GitHub Pages repository! As previously mentioned, none of the changes you have made to the cloned repository on your desktop will show up on your online repository until you both commit <strong>AND</strong> push them to origin.</p>
 
-											<p>This process is fairly simple as the GitHub Desktop client automatically keeps track of all the changes made your repository on your PC.</p>
+											<p>This process is fairly simple as the GitHub Desktop client automatically keeps track of all the changes made to your repository clone on your PC.</p>
 
 											<span class="image fit tutorial">
 												<img class="" src="all-assets/build-your-own/tutorial-images/githubdesktop19.png" alt="" />
 											</span>
 
-											<p>Simply check all of the changes that you want to commit, make sure you are on the master branch, put in a commit title and description (optional), and click "Commit to Master".</p>
+											<p>Simply click the checkmark button next to all of the changes that you want to commit, make sure you are on the master branch, put in a commit title and description (description is optional and it doesn't matter what you put as your title or description), and click "Commit to Master".</p>
 
 											<span class="image fit tutorial">
-												<img class="" src="all-assets/build-your-own/tutorial-images/githubdesktop20.png" alt="" />
+												<img style="width: 40%;height: 40%;" class="" src="all-assets/build-your-own/tutorial-images/githubdesktop20.png" alt="" />
 											</span>
 
 											<p>You will now want to click "Push Origin" either in the top bar or in the light blue box that appears.</p>
@@ -264,7 +292,7 @@
 												<img class="" src="all-assets/build-your-own/tutorial-images/githubdesktop21.png" alt="" />
 											</span>
 
-											<p>It will push the changes and they will now appear in your online repository, which means... wait for it...you have officially published your site! It may take a few minutes for the changes to take effect and, barring how recently you configured the domain, typing your domain into the URL bar of your browser should pull up your website.</p>
+											<p>It will push the changes and they will now appear in your online repository, which means...<i>wait for it</i>...YOU HAVE OFFICIALLY PUBLISHED YOUR SITE! It may take a few minutes for the changes to take effect and, barring how recently you configured the domain, typing your domain into the URL bar of your browser should pull up your website.</p>
 
 											<p>You are now ready to wrap it up with <a href="build-your-own-website-step-5"><span class="icon fa-"> Step 5 & Beyond</span></a>!</p>
 
