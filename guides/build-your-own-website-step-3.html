@@ -7,15 +7,15 @@
 -->
 
 <!-- Favicon ================================================== -->
-<link rel="shortcut icon" href="all-assets/main-page/images/favicon.png" >
+<link rel="shortcut icon" href="../all-assets/main-page/images/favicon.png" >
 
 <html>
 	<head>
 		<title>Step 3 - Build Your Own Website</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="all-assets/build-your-own/assets/css/main.css" />
-		<noscript><link rel="stylesheet" href="all-assets/build-your-own/assets/css/noscript.css" /></noscript>
+		<link rel="stylesheet" href="../all-assets/build-your-own/assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="../all-assets/build-your-own/assets/css/noscript.css" /></noscript>
 
 		<!-- Global site tag (gtag.js) - Google Analytics -->
 		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-106321608-2"></script>
@@ -49,7 +49,7 @@
 						<!-- Logo -->
 							<div id="header" class="inner">
 								<a href="https://www.matthewfawks.com" class="logo">
-									<span class="symbol"><img src="all-assets/build-your-own/images/logo.png" alt="" /></span><span class="title">Matthew Fawks</span>
+									<span class="symbol"><img src="../all-assets/build-your-own/images/logo.png" alt="" /></span><span class="title">Matthew Fawks</span>
 								</a>
 							</div>
 
@@ -101,35 +101,35 @@
 											<p>First, we will configure the domain in your Namecheap profile. Header over to your "Dashboard" or "Domain List" and click the "Manage" button next to your domain (you could also click "Manage" on the final checkout screen after your purchase went through). You should be brought to a page that looks like this.</p>
 
 											<span class="image fit tutorial">
-												<img class="" src="all-assets/build-your-own/tutorial-images/namecheap20.png" alt="" />
+												<img class="" src="../all-assets/build-your-own/tutorial-images/namecheap20.png" alt="" />
 											</span>
 
 											<p>Click over to the "Advanced DNS" tab, which should look like this.</p>
 
 											<span class="image fit tutorial">
-												<img class="" src="all-assets/build-your-own/tutorial-images/namecheap26.png" alt="" />
+												<img class="" src="../all-assets/build-your-own/tutorial-images/namecheap26.png" alt="" />
 											</span>
 
 											<!-- <span class="image fit tutorial">
-												<img class="" src="all-assets/build-your-own/tutorial-images/namecheap28.png" alt="" />
+												<img class="" src="../all-assets/build-your-own/tutorial-images/namecheap28.png" alt="" />
 											</span> -->
 
 											<p>Under the "Host Records" section, click on the CNAME Record line and replace the parking page URL with your GitHub repository URL (remember that this is the same as the repository name - "<i>YOURUSERNAME</i>.github.io"). Click the green check mark to save this setting. </p>
 
 											<span class="image fit tutorial">
-												<img class="" src="all-assets/build-your-own/tutorial-images/namecheap29.png" alt="" />
+												<img class="" src="../all-assets/build-your-own/tutorial-images/namecheap29.png" alt="" />
 											</span>
 
 											<p>Click back over to the "Domain" tab that we were first on and go to the "Redirect Domain" section. This should show a source URL with the domain you just purchased and a destination URL that is formatted with the "http://" nomenclature. Click the "Add Wildcard Redirect" and then "Save All Changes".</p>
 
 											<span class="image fit tutorial">
-												<img class="" src="all-assets/build-your-own/tutorial-images/namecheap22.png" alt="" />
+												<img class="" src="../all-assets/build-your-own/tutorial-images/namecheap22.png" alt="" />
 											</span>
 
 											<p>If you want to redirect any emails sent to <i>anything</i>@<i>yourdomain</i> (for example, "me@testdomain.shop"), then go to the "Redirect Email" section and click "Add Catch-All" and put in the email you want to forward to.</p>
 
 											<span class="image fit tutorial">
-												<img class="" src="all-assets/build-your-own/tutorial-images/namecheap23.png" alt="" />
+												<img class="" src="../all-assets/build-your-own/tutorial-images/namecheap23.png" alt="" />
 											</span>
 
 											<p>It may take up to 24-48 hours for the DNS to propagate (typically dependent on how often your local Internet Service Provider (ISP) updates their DNS cache) so that using your new domain will point to your GitHub Pages repository.</p>
@@ -139,7 +139,7 @@
 											<p>Now that your domain is set up in Namecheap (we are now done using Namecheap), go back to your GitHub Pages repository and click on "Settings". It will default to the "Options" section. Scroll down to "GitHub Pages", which will look like the image below but with your repository name instead of mine.</p>
 
 											<span class="image fit tutorial">
-												<img class="" src="all-assets/build-your-own/tutorial-images/github19.png" alt="" />
+												<img class="" src="../all-assets/build-your-own/tutorial-images/github19.png" alt="" />
 											</span>
 
 											<p>Notice how is shows the current URL of your site (currently your repository name) and allows you to enter a custom domain. You can ignore the "Theme Chooser" unless you plan on using <a target="_blank" href="https://jekyllrb.com/">Jekyll</a> to create your site. Enter the domain name you just purchased exactly as it is spelled into the "Custom domain" spot. Using the above domain I purchased, I would put in "testdomain.shop", but here I am using my other domain "matthewfawks.com" instead. Note that it doesn't need to match your username, "matthewfawks.com" is just what I preferred my domain to be.</p>
@@ -147,25 +147,25 @@
 											<p>After it saves, make sure "Enforce HTTPS" is selected. It should say that your site is "ready to be published" at the top with your custom domain now.</p>
 
 											<span class="image fit tutorial">
-												<img class="" src="all-assets/build-your-own/tutorial-images/github20.png" alt="" />
+												<img class="" src="../all-assets/build-your-own/tutorial-images/github20.png" alt="" />
 											</span>
 
 											<p>For the last step in configuring your domain, you will need a CNAME file in your repository with your custom domain name in it. This may be automatically created after the above steps, but if it doesn't then go to the "Code" tab and click "Create new file".</p>
 
 											<span class="image fit tutorial">
-												<img class="" src="all-assets/build-your-own/tutorial-images/github21.png" alt="" />
+												<img class="" src="../all-assets/build-your-own/tutorial-images/github21.png" alt="" />
 											</span>
 
 											<p>Title the document "CNAME" exactly. Then, type your domain name in and add "www." to the front of it. For example, if I used testdomain.shop, then it should say "www.testdomain.shop".</p>
 
 											<span class="image fit tutorial">
-												<img class="" src="all-assets/build-your-own/tutorial-images/github22.png" alt="" />
+												<img class="" src="../all-assets/build-your-own/tutorial-images/github22.png" alt="" />
 											</span>
 
 											<p>Add a title and description to the commit (what you put is completely up to you), make sure it commits directly to the master branch, and click "Commit new file".</p>
 
 											<span class="image fit tutorial">
-												<img class="" src="all-assets/build-your-own/tutorial-images/github23.png" alt="" />
+												<img class="" src="../all-assets/build-your-own/tutorial-images/github23.png" alt="" />
 											</span>
 
 										<p>This will vary slightly based on which host you choose and where you get your domain name, but the basic idea stands. Nevertheless, your site should now be configured and ready to publish to, and you should be able to access your site from your custom domain in as little as an hour but up to 48 hours from the time you complete this step.</p>
@@ -239,23 +239,23 @@
 								<h2 class="slim-footer">Share This Article</h2>
 								<ul class="icons">
 										<!-- Email -->
-										<li><a class="icon style2" href="mailto:?Subject=Build%20Your%20Own%20Website%20Step-by-Step%20Guide&amp;Body=Check%20out%20this%20cool%20step-by-step%20guide%20to%20building%20and%20hosting%20a%20website!%0d%0a%0d%0aHere's%20the%20link:%20https://www.matthewfawks.com/build-your-own-website-step-by-step-guide">
+										<li><a class="icon style2" href="mailto:?Subject=Build%20Your%20Own%20Website%20Step-by-Step%20Guide&amp;Body=Check%20out%20this%20cool%20step-by-step%20guide%20to%20building%20and%20hosting%20a%20website!%0d%0a%0d%0aHere's%20the%20link:%20https://www.matthewfawks.com/guides/build-your-own-website-step-by-step-guide">
 												<img style="width: 15px;height: 15px" src="https://simplesharebuttons.com/images/somacro/email.png" alt="Email" />
 										</a></li>
 										<!-- LinkedIn -->
-										<li><a class="icon style2" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.matthewfawks.com/build-your-own-website-step-by-step-guide" target="_blank">
+										<li><a class="icon style2" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.matthewfawks.com/guides/build-your-own-website-step-by-step-guide" target="_blank">
 												<img style="width: 15px;height: 15px" src="https://simplesharebuttons.com/images/somacro/linkedin.png" alt="LinkedIn" />
 										</a></li>
 										<!-- Facebook -->
-										<li><a class="icon style2" href="http://www.facebook.com/sharer.php?u=https://www.matthewfawks.com/build-your-own-website-step-by-step-guide" target="_blank">
+										<li><a class="icon style2" href="http://www.facebook.com/sharer.php?u=https://www.matthewfawks.com/guides/build-your-own-website-step-by-step-guide" target="_blank">
 												<img style="width: 15px;height: 15px" src="https://simplesharebuttons.com/images/somacro/facebook.png" alt="Facebook" />
 										</a></li>
 										<!-- Twitter -->
-										<li><a class="icon style2" href="https://twitter.com/share?url=https://www.matthewfawks.com/build-your-own-website-step-by-step-guide&amp;text=Build%20Your%20Own%20Website%20Step-by-Step%20Guide&amp;hashtags=matthewfawks" target="_blank">
+										<li><a class="icon style2" href="https://twitter.com/share?url=https://www.matthewfawks.com/guides/build-your-own-website-step-by-step-guide&amp;text=Build%20Your%20Own%20Website%20Step-by-Step%20Guide&amp;hashtags=matthewfawks" target="_blank">
 												<img style="width: 15px;height: 15px" src="https://simplesharebuttons.com/images/somacro/twitter.png" alt="Twitter" />
 										</a></li>
 										<!-- Reddit -->
-										<li><a class="icon style2" href="http://reddit.com/submit?url=https://www.matthewfawks.com/build-your-own-website-step-by-step-guide&amp;title=Step-by-Step%20Guide%20to%20Building%20and%20Hosting%20a%20Website" target="_blank">
+										<li><a class="icon style2" href="http://reddit.com/submit?url=https://www.matthewfawks.com/guides/build-your-own-website-step-by-step-guide&amp;title=Step-by-Step%20Guide%20to%20Building%20and%20Hosting%20a%20Website" target="_blank">
 												<img style="width: 15px;height: 15px" src="https://simplesharebuttons.com/images/somacro/reddit.png" alt="Reddit" />
 										</a></li>
 									</ul>
@@ -270,13 +270,13 @@
 
 
 		<!-- Scripts -->
-			<script src="all-assets/build-your-own/assets/js/jquery.min.js"></script>
-			<!--<script src="all-assets/build-your-own/assets/js/jquery.scrolly.min.js"></script>-->
-			<!--<script src="all-assets/build-your-own/assets/js/jquery.scrollex.min.js"></script>-->
-			<script src="all-assets/build-your-own/assets/js/browser.min.js"></script>
-			<script src="all-assets/build-your-own/assets/js/breakpoints.min.js"></script>
-			<script src="all-assets/build-your-own/assets/js/util.js"></script>
-			<script src="all-assets/build-your-own/assets/js/main.js"></script>
+			<script src="../all-assets/build-your-own/assets/js/jquery.min.js"></script>
+			<!--<script src="../all-assets/build-your-own/assets/js/jquery.scrolly.min.js"></script>-->
+			<!--<script src="../all-assets/build-your-own/assets/js/jquery.scrollex.min.js"></script>-->
+			<script src="../all-assets/build-your-own/assets/js/browser.min.js"></script>
+			<script src="../all-assets/build-your-own/assets/js/breakpoints.min.js"></script>
+			<script src="../all-assets/build-your-own/assets/js/util.js"></script>
+			<script src="../all-assets/build-your-own/assets/js/main.js"></script>
 			<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 			<!-- Script for smooth scrolling -->
 			<script>
