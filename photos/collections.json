@@ -1,0 +1,1582 @@
+{
+  "collections": [
+    {
+      "slug": "new-york-city",
+      "title": "New York City",
+      "description": "",
+      "cover": "new-york-city-004.jpg",
+      "photos": [
+        {
+          "file": "new-york-city-001.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-01.jpg",
+          "source_bytes": 3388830
+        },
+        {
+          "file": "new-york-city-002.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-02.jpg",
+          "source_bytes": 2463890
+        },
+        {
+          "file": "new-york-city-003.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-03.jpg",
+          "source_bytes": 3440740
+        },
+        {
+          "file": "new-york-city-004.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-04.jpg",
+          "source_bytes": 2035217
+        },
+        {
+          "file": "new-york-city-005.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-05.jpg",
+          "source_bytes": 2645627
+        },
+        {
+          "file": "new-york-city-006.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-06.jpg",
+          "source_bytes": 1082779
+        },
+        {
+          "file": "new-york-city-007.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-07.jpg",
+          "source_bytes": 2498092
+        },
+        {
+          "file": "new-york-city-008.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-08.jpg",
+          "source_bytes": 2038861
+        },
+        {
+          "file": "new-york-city-009.jpg",
+          "w": 1600,
+          "h": 2400,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-09.jpg",
+          "source_bytes": 3722050
+        },
+        {
+          "file": "new-york-city-010.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-10.jpg",
+          "source_bytes": 1781799
+        },
+        {
+          "file": "new-york-city-011.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-11.jpg",
+          "source_bytes": 5260971
+        },
+        {
+          "file": "new-york-city-012.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-12.jpg",
+          "source_bytes": 5184719
+        },
+        {
+          "file": "new-york-city-013.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-13.jpg",
+          "source_bytes": 3016763
+        },
+        {
+          "file": "new-york-city-014.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-14.jpg",
+          "source_bytes": 2947453
+        },
+        {
+          "file": "new-york-city-015.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-15.jpg",
+          "source_bytes": 3816126
+        },
+        {
+          "file": "new-york-city-016.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-16.jpg",
+          "source_bytes": 2668227
+        },
+        {
+          "file": "new-york-city-017.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-17.jpg",
+          "source_bytes": 4359847
+        },
+        {
+          "file": "new-york-city-018.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-18.jpg",
+          "source_bytes": 3931763
+        },
+        {
+          "file": "new-york-city-019.jpg",
+          "w": 1600,
+          "h": 2400,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-19.jpg",
+          "source_bytes": 2749402
+        },
+        {
+          "file": "new-york-city-020.jpg",
+          "w": 1600,
+          "h": 2400,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-20.jpg",
+          "source_bytes": 2024703
+        },
+        {
+          "file": "new-york-city-021.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-21.jpg",
+          "source_bytes": 4708696
+        },
+        {
+          "file": "new-york-city-022.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-22.jpg",
+          "source_bytes": 5516710
+        },
+        {
+          "file": "new-york-city-023.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-23.jpg",
+          "source_bytes": 8428181
+        },
+        {
+          "file": "new-york-city-024.jpg",
+          "w": 1600,
+          "h": 2400,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-24.jpg",
+          "source_bytes": 5013113
+        },
+        {
+          "file": "new-york-city-025.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-25.jpg",
+          "source_bytes": 2841090
+        },
+        {
+          "file": "new-york-city-026.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-26.jpg",
+          "source_bytes": 3930644
+        },
+        {
+          "file": "new-york-city-027.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-27.jpg",
+          "source_bytes": 3826594
+        },
+        {
+          "file": "new-york-city-028.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-28.jpg",
+          "source_bytes": 2383945
+        },
+        {
+          "file": "new-york-city-029.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-29.jpg",
+          "source_bytes": 1223714
+        },
+        {
+          "file": "new-york-city-030.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-30.jpg",
+          "source_bytes": 2129596
+        },
+        {
+          "file": "new-york-city-031.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-31.jpg",
+          "source_bytes": 8494274
+        },
+        {
+          "file": "new-york-city-032.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nyc-32.jpg",
+          "source_bytes": 4184590
+        }
+      ]
+    },
+    {
+      "slug": "chicago",
+      "title": "Chicago",
+      "description": "",
+      "cover": "chicago-018.jpg",
+      "photos": [
+        {
+          "file": "chicago-001.jpg",
+          "w": 2400,
+          "h": 1350,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-01.jpg",
+          "source_bytes": 16459424
+        },
+        {
+          "file": "chicago-002.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-02.jpg",
+          "source_bytes": 24663498
+        },
+        {
+          "file": "chicago-003.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-03.jpg",
+          "source_bytes": 14061634
+        },
+        {
+          "file": "chicago-004.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-04.jpg",
+          "source_bytes": 19342164
+        },
+        {
+          "file": "chicago-005.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-05.jpg",
+          "source_bytes": 17970918
+        },
+        {
+          "file": "chicago-006.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-06.jpg",
+          "source_bytes": 25253680
+        },
+        {
+          "file": "chicago-007.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-07.jpg",
+          "source_bytes": 27109003
+        },
+        {
+          "file": "chicago-008.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-08.jpg",
+          "source_bytes": 25590965
+        },
+        {
+          "file": "chicago-009.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-09.jpg",
+          "source_bytes": 27220940
+        },
+        {
+          "file": "chicago-010.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-10.jpg",
+          "source_bytes": 23334295
+        },
+        {
+          "file": "chicago-011.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-11.jpg",
+          "source_bytes": 22296160
+        },
+        {
+          "file": "chicago-012.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-12.jpg",
+          "source_bytes": 34005966
+        },
+        {
+          "file": "chicago-013.jpg",
+          "w": 2400,
+          "h": 1350,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-13.jpg",
+          "source_bytes": 21657688
+        },
+        {
+          "file": "chicago-014.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-14.jpg",
+          "source_bytes": 12356949
+        },
+        {
+          "file": "chicago-015.jpg",
+          "w": 2400,
+          "h": 1350,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-15.jpg",
+          "source_bytes": 7337338
+        },
+        {
+          "file": "chicago-016.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-16.jpg",
+          "source_bytes": 14098403
+        },
+        {
+          "file": "chicago-017.jpg",
+          "w": 2400,
+          "h": 1350,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-17.jpg",
+          "source_bytes": 25452861
+        },
+        {
+          "file": "chicago-018.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-18.jpg",
+          "source_bytes": 10498872
+        },
+        {
+          "file": "chicago-019.jpg",
+          "w": 2400,
+          "h": 1350,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-19.jpg",
+          "source_bytes": 9991693
+        },
+        {
+          "file": "chicago-020.jpg",
+          "w": 2400,
+          "h": 1350,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-20.jpg",
+          "source_bytes": 12338331
+        },
+        {
+          "file": "chicago-021.jpg",
+          "w": 2400,
+          "h": 1350,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-21.jpg",
+          "source_bytes": 15733619
+        },
+        {
+          "file": "chicago-022.jpg",
+          "w": 2400,
+          "h": 1350,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-23.jpg",
+          "source_bytes": 15121776
+        },
+        {
+          "file": "chicago-023.jpg",
+          "w": 2400,
+          "h": 1350,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-24.jpg",
+          "source_bytes": 10518804
+        },
+        {
+          "file": "chicago-024.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-25.jpg",
+          "source_bytes": 16458947
+        },
+        {
+          "file": "chicago-025.jpg",
+          "w": 2400,
+          "h": 1350,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-26.jpg",
+          "source_bytes": 7947508
+        },
+        {
+          "file": "chicago-026.jpg",
+          "w": 2400,
+          "h": 1350,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-27.jpg",
+          "source_bytes": 6503841
+        },
+        {
+          "file": "chicago-027.jpg",
+          "w": 2400,
+          "h": 1350,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-28.jpg",
+          "source_bytes": 13292246
+        },
+        {
+          "file": "chicago-028.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-29.jpg",
+          "source_bytes": 7065867
+        },
+        {
+          "file": "chicago-029.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "chicago-full-30.jpg",
+          "source_bytes": 33851555
+        }
+      ]
+    },
+    {
+      "slug": "big-bend",
+      "title": "Big Bend",
+      "description": "",
+      "cover": "big-bend-013.jpg",
+      "photos": [
+        {
+          "file": "big-bend-001.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-01.jpg",
+          "source_bytes": 19473140
+        },
+        {
+          "file": "big-bend-002.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-02.jpg",
+          "source_bytes": 17024185
+        },
+        {
+          "file": "big-bend-003.jpg",
+          "w": 2400,
+          "h": 1138,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-03.jpg",
+          "source_bytes": 49511326
+        },
+        {
+          "file": "big-bend-004.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-04.jpg",
+          "source_bytes": 12363484
+        },
+        {
+          "file": "big-bend-005.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-05.jpg",
+          "source_bytes": 10964791
+        },
+        {
+          "file": "big-bend-006.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-06.jpg",
+          "source_bytes": 21372662
+        },
+        {
+          "file": "big-bend-007.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-07.jpg",
+          "source_bytes": 19172208
+        },
+        {
+          "file": "big-bend-008.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-08.jpg",
+          "source_bytes": 17238234
+        },
+        {
+          "file": "big-bend-009.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-09.jpg",
+          "source_bytes": 21118052
+        },
+        {
+          "file": "big-bend-010.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-10.jpg",
+          "source_bytes": 18329517
+        },
+        {
+          "file": "big-bend-011.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-11.jpg",
+          "source_bytes": 14002823
+        },
+        {
+          "file": "big-bend-012.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-12.jpg",
+          "source_bytes": 12166288
+        },
+        {
+          "file": "big-bend-013.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-13.jpg",
+          "source_bytes": 19166745
+        },
+        {
+          "file": "big-bend-014.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-14.jpg",
+          "source_bytes": 22573101
+        },
+        {
+          "file": "big-bend-015.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-15.jpg",
+          "source_bytes": 18906664
+        },
+        {
+          "file": "big-bend-016.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-16.jpg",
+          "source_bytes": 15010245
+        },
+        {
+          "file": "big-bend-017.jpg",
+          "w": 2400,
+          "h": 1350,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-17.jpg",
+          "source_bytes": 16246589
+        },
+        {
+          "file": "big-bend-018.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-18.jpg",
+          "source_bytes": 10715449
+        },
+        {
+          "file": "big-bend-019.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-19.jpg",
+          "source_bytes": 7653591
+        },
+        {
+          "file": "big-bend-020.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-20.jpg",
+          "source_bytes": 19439895
+        },
+        {
+          "file": "big-bend-021.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-21.jpg",
+          "source_bytes": 16333348
+        },
+        {
+          "file": "big-bend-022.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-22.jpg",
+          "source_bytes": 11977838
+        },
+        {
+          "file": "big-bend-023.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-23.jpg",
+          "source_bytes": 9348001
+        },
+        {
+          "file": "big-bend-024.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-24.jpg",
+          "source_bytes": 19095986
+        },
+        {
+          "file": "big-bend-025.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-25.jpg",
+          "source_bytes": 17186475
+        },
+        {
+          "file": "big-bend-026.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-26.jpg",
+          "source_bytes": 18541641
+        },
+        {
+          "file": "big-bend-027.jpg",
+          "w": 2400,
+          "h": 1537,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "big_bend-full-27.jpg",
+          "source_bytes": 31888673
+        }
+      ]
+    },
+    {
+      "slug": "dallas",
+      "title": "Dallas",
+      "description": "",
+      "cover": "dallas-002.jpg",
+      "photos": [
+        {
+          "file": "dallas-001.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "dfw-01.jpg",
+          "source_bytes": 1504559
+        },
+        {
+          "file": "dallas-002.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "dfw-02.jpg",
+          "source_bytes": 816665
+        },
+        {
+          "file": "dallas-003.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "dfw-03.jpg",
+          "source_bytes": 559510
+        },
+        {
+          "file": "dallas-004.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "dfw-04.jpg",
+          "source_bytes": 2463911
+        },
+        {
+          "file": "dallas-005.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "dfw-05.jpg",
+          "source_bytes": 3781735
+        },
+        {
+          "file": "dallas-006.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "dfw-06.jpg",
+          "source_bytes": 5557813
+        },
+        {
+          "file": "dallas-007.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "dfw-07.jpg",
+          "source_bytes": 1890213
+        },
+        {
+          "file": "dallas-008.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "dfw-08.jpg",
+          "source_bytes": 1300727
+        },
+        {
+          "file": "dallas-009.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "dfw-09.jpg",
+          "source_bytes": 3945825
+        },
+        {
+          "file": "dallas-010.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "dfw-10.jpg",
+          "source_bytes": 2473601
+        },
+        {
+          "file": "dallas-011.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "dfw-11.jpg",
+          "source_bytes": 2425028
+        },
+        {
+          "file": "dallas-012.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "dfw-12.jpg",
+          "source_bytes": 3450516
+        },
+        {
+          "file": "dallas-013.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "dfw-13.jpg",
+          "source_bytes": 2055856
+        },
+        {
+          "file": "dallas-014.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "dfw-14.jpg",
+          "source_bytes": 3169175
+        },
+        {
+          "file": "dallas-015.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "dfw-15.jpg",
+          "source_bytes": 1477654
+        },
+        {
+          "file": "dallas-016.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "dfw-16.jpg",
+          "source_bytes": 2615247
+        },
+        {
+          "file": "dallas-017.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "dfw-17.jpg",
+          "source_bytes": 2636739
+        },
+        {
+          "file": "dallas-018.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "dfw-18.jpg",
+          "source_bytes": 4241368
+        },
+        {
+          "file": "dallas-019.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "dfw-19.jpg",
+          "source_bytes": 1211786
+        },
+        {
+          "file": "dallas-020.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "dfw-20.jpg",
+          "source_bytes": 2416760
+        },
+        {
+          "file": "dallas-021.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "dfw-21.jpg",
+          "source_bytes": 2002550
+        }
+      ]
+    },
+    {
+      "slug": "new-zealand",
+      "title": "New Zealand",
+      "description": "",
+      "cover": "new-zealand-002.jpg",
+      "photos": [
+        {
+          "file": "new-zealand-002.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nz-01.jpg",
+          "source_bytes": 14390859
+        },
+        {
+          "file": "new-zealand-003.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nz-02.jpg",
+          "source_bytes": 11151237
+        },
+        {
+          "file": "new-zealand-004.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nz-03.jpg",
+          "source_bytes": 15155057
+        },
+        {
+          "file": "new-zealand-005.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nz-04.jpg",
+          "source_bytes": 9487351
+        },
+        {
+          "file": "new-zealand-006.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nz-05.jpg",
+          "source_bytes": 8409042
+        },
+        {
+          "file": "new-zealand-007.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nz-06.jpg",
+          "source_bytes": 13023672
+        },
+        {
+          "file": "new-zealand-008.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nz-07.jpg",
+          "source_bytes": 10345599
+        },
+        {
+          "file": "new-zealand-009.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nz-08.jpg",
+          "source_bytes": 9855202
+        },
+        {
+          "file": "new-zealand-010.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nz-09.jpg",
+          "source_bytes": 8533433
+        },
+        {
+          "file": "new-zealand-011.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nz-10.jpg",
+          "source_bytes": 15873626
+        },
+        {
+          "file": "new-zealand-012.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nz-11.jpg",
+          "source_bytes": 22670165
+        },
+        {
+          "file": "new-zealand-013.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nz-12.jpg",
+          "source_bytes": 14249075
+        },
+        {
+          "file": "new-zealand-014.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nz-13.jpg",
+          "source_bytes": 17708064
+        },
+        {
+          "file": "new-zealand-015.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nz-14.jpg",
+          "source_bytes": 18499636
+        },
+        {
+          "file": "new-zealand-016.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nz-15.jpg",
+          "source_bytes": 7555119
+        },
+        {
+          "file": "new-zealand-017.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nz-16.jpg",
+          "source_bytes": 9702306
+        },
+        {
+          "file": "new-zealand-018.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nz-17.jpg",
+          "source_bytes": 9589488
+        },
+        {
+          "file": "new-zealand-019.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nz-18.jpg",
+          "source_bytes": 14212927
+        },
+        {
+          "file": "new-zealand-020.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nz-19.jpg",
+          "source_bytes": 14841340
+        },
+        {
+          "file": "new-zealand-021.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "nz-20.jpg",
+          "source_bytes": 6466248
+        }
+      ]
+    },
+    {
+      "slug": "animals",
+      "title": "Animals",
+      "description": "",
+      "cover": "animals-001.jpg",
+      "photos": [
+        {
+          "file": "animals-001.jpg",
+          "w": 1440,
+          "h": 1080,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "animals-01.jpg",
+          "source_bytes": 1229019
+        },
+        {
+          "file": "animals-002.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "animals-02.jpg",
+          "source_bytes": 11610637
+        },
+        {
+          "file": "animals-003.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "animals-03.jpg",
+          "source_bytes": 9199149
+        },
+        {
+          "file": "animals-004.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "animals-04.jpg",
+          "source_bytes": 7034046
+        },
+        {
+          "file": "animals-005.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "animals-05.jpg",
+          "source_bytes": 10618896
+        },
+        {
+          "file": "animals-006.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "animals-06.jpg",
+          "source_bytes": 8798480
+        },
+        {
+          "file": "animals-007.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "animals-07.jpg",
+          "source_bytes": 9095407
+        },
+        {
+          "file": "animals-008.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "animals-09.jpg",
+          "source_bytes": 7965648
+        },
+        {
+          "file": "animals-009.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "animals-10.jpg",
+          "source_bytes": 23022339
+        },
+        {
+          "file": "animals-010.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "animals-12.jpg",
+          "source_bytes": 18472192
+        },
+        {
+          "file": "animals-011.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "animals-13.jpg",
+          "source_bytes": 14886553
+        },
+        {
+          "file": "animals-012.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "animals-14.jpg",
+          "source_bytes": 27105957
+        },
+        {
+          "file": "animals-013.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "animals-15.jpg",
+          "source_bytes": 26250781
+        },
+        {
+          "file": "animals-014.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "animals-16.jpg",
+          "source_bytes": 20490396
+        },
+        {
+          "file": "animals-015.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "animals-17.jpg",
+          "source_bytes": 22260567
+        },
+        {
+          "file": "animals-016.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "animals-18.jpg",
+          "source_bytes": 18745146
+        },
+        {
+          "file": "animals-017.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "animals-19.jpg",
+          "source_bytes": 14654020
+        },
+        {
+          "file": "animals-018.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "animals-20.jpg",
+          "source_bytes": 17331539
+        },
+        {
+          "file": "animals-019.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "animals-21.jpg",
+          "source_bytes": 10965027
+        },
+        {
+          "file": "animals-020.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "animals-22.jpg",
+          "source_bytes": 19205131
+        },
+        {
+          "file": "animals-021.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "animals-23.jpg",
+          "source_bytes": 20304580
+        },
+        {
+          "file": "animals-022.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "animals-24.jpg",
+          "source_bytes": 16387713
+        },
+        {
+          "file": "animals-023.jpg",
+          "w": 2400,
+          "h": 1600,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "animals-25.jpg",
+          "source_bytes": 14481851
+        },
+        {
+          "file": "animals-024.jpg",
+          "w": 2400,
+          "h": 1599,
+          "alt": "",
+          "caption": "",
+          "buy_url": "",
+          "source": "animals-26.jpg",
+          "source_bytes": 11494086
+        }
+      ]
+    }
+  ]
+}
