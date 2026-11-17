@@ -113,6 +113,11 @@ def cmd_import(args):
         print(f"  {f.name} -> {name}  {w}x{h}  {kb} KB")
     if not col["cover"] and col["photos"]:
         col["cover"] = col["photos"][0]["file"]
+    if not col["photos"]:
+        # nothing was imported into a brand-new collection: don't leave an empty entry behind
+        data["collections"].remove(col)
+        print(f"No images found in {src}; nothing imported.")
+        return
     save(data)
     print(f"Imported {added} photo(s) into '{slug}'. Now run:  python3 tools/photos.py build")
 
@@ -165,6 +170,8 @@ def cmd_build(_args):
     warnings = []
     total = 0
     for c in data["collections"]:
+        if not c["photos"]:
+            continue  # empty collections get no page and no card
         for p in c["photos"]:
             if not (PHOTOS / c["slug"] / "full" / p["file"]).exists():
                 warnings.append(f"missing file: photos/{c['slug']}/full/{p['file']}")

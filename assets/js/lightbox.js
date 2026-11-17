@@ -32,7 +32,7 @@
     (new Image()).src = next.href; // preload
   }
   function open(n) { lastFocus = document.activeElement; show(n); lb.classList.add('open'); document.body.style.overflow = 'hidden'; closeBtn.focus(); }
-  function close() { lb.classList.remove('open'); document.body.style.overflow = ''; img.src = ''; if (lastFocus) lastFocus.focus(); }
+  function close() { lb.classList.remove('open'); document.body.style.overflow = ''; img.removeAttribute('src'); if (lastFocus) lastFocus.focus(); }
 
   items.forEach(function (a, n) {
     a.addEventListener('click', function (e) {
